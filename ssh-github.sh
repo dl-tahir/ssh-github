@@ -1,4 +1,4 @@
-ssh-keygen -t ed25519 -C "tahir.mahmood.com"
+ssh-keygen -t ed25519 -C "tahir.mahmood@example.com"
 cd .ssh/
 cat id_ed25519.pub
 echo "INFO !!! Add this key to GitHub account."
